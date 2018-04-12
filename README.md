@@ -1,3 +1,2 @@
-#biLinearInterpolation
-
+# biLinearInterpolation
 a opencv project
